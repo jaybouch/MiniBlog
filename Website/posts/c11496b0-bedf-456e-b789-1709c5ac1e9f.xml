@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<post>
+  <title>My new post</title>
+  <slug>my-new-post</slug>
+  <author>jaybouch</author>
+  <pubDate>2015-10-28 14:25:50</pubDate>
+  <lastModified>2015-10-28 14:25:50</lastModified>
+  <excerpt></excerpt>
+  <content>the content</content>
+  <ispublished>true</ispublished>
+  <categories>
+    <category>super duper test post</category>
+  </categories>
+  <comments></comments>
+</post>
